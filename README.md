@@ -1,5 +1,5 @@
 # demo
 my first repository.
 <br>
-Author: Samoyal Bhomjan
+Author: Samoyal Bhomjan(Lambton College)
 
